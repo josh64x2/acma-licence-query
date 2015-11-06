@@ -1,0 +1,13 @@
+[email]
+email_notifications = yes
+from_name = Registration Daemon
+from_address = registration@localhost
+to_name = New Ham
+to_address = iloveacma@localhost
+
+[smtp]
+server = localhost
+auth_required = no
+ssl_required = no
+username = username
+password = password
