@@ -6,8 +6,8 @@ registered yet or not.
 
 Please don't be silly and have this script set to run extremely frequently.
 
-
+*Before* use create your own `acma.conf` file using `acma.conf.example` as a starting point.
 
 ## Usage: ##
-*Before* use create your own `acma.conf` file using `acma.conf.example` as a starting point.
+
 `python3 acma.py callsign` where `callsign` is the VK callsign you want to query.
